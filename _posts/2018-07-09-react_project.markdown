@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React Project"
-date:       2018-07-09 14:51:20 +0000
+date:       2018-07-09 10:51:21 -0400
 permalink:  react_project
 ---
 
